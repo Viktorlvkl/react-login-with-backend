@@ -3,10 +3,7 @@
 <h1 align="center">React login with backend</h1> 
 
 
-#SQLite users for test
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Viktorlvkl/react-login-with-backend/main/BACKEND/database.sqlite3.png" width="1000px" float="center"/>
-</p>
+
 
 </br>
 
@@ -28,9 +25,19 @@ In the terminal inside the FRONTEND folder.
 This starts frontend.
 
 <br>
-<b>Enjoy!<b>
 
 <br>
+
+
+#SQLite users for test
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Viktorlvkl/react-login-with-backend/main/BACKEND/database.sqlite3.png" width="1000px" float="center"/>
+</p>
+
+<br>
+
+<br>
+<b>Enjoy!<b>
 
 
 <h2 align="center">Autor</h2> 
